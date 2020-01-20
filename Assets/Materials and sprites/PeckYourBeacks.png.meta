@@ -1,0 +1,2083 @@
+fileFormatVersion: 2
+guid: e9ecac87a3de5f2488ba6b9f2d2f1aba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8887056168309029596
+    second: PeckYourBeacks_0
+  - first:
+      213: 5069122674555986461
+    second: PeckYourBeacks_1
+  - first:
+      213: 3110852824706191001
+    second: PeckYourBeacks_2
+  - first:
+      213: 2325957497793237967
+    second: PeckYourBeacks_3
+  - first:
+      213: -6437298482765784205
+    second: PeckYourBeacks_4
+  - first:
+      213: -5701971481468380488
+    second: PeckYourBeacks_5
+  - first:
+      213: 7552000948274619738
+    second: PeckYourBeacks_6
+  - first:
+      213: 4399520383113658664
+    second: PeckYourBeacks_7
+  - first:
+      213: 5214704439307545732
+    second: PeckYourBeacks_8
+  - first:
+      213: -8496148733643188446
+    second: PeckYourBeacks_9
+  - first:
+      213: 7921239611771029791
+    second: PeckYourBeacks_10
+  - first:
+      213: 2600054778845330004
+    second: PeckYourBeacks_11
+  - first:
+      213: -927977845378447771
+    second: PeckYourBeacks_12
+  - first:
+      213: -3188128646137950843
+    second: PeckYourBeacks_13
+  - first:
+      213: -405756443051073240
+    second: PeckYourBeacks_14
+  - first:
+      213: -6484925326946899045
+    second: PeckYourBeacks_15
+  - first:
+      213: 6083460799689327173
+    second: PeckYourBeacks_16
+  - first:
+      213: 997807505929277468
+    second: PeckYourBeacks_17
+  - first:
+      213: 5784256113832600757
+    second: PeckYourBeacks_18
+  - first:
+      213: 1293199682227552320
+    second: PeckYourBeacks_19
+  - first:
+      213: -2200623744075836708
+    second: PeckYourBeacks_20
+  - first:
+      213: 7476464423151327323
+    second: PeckYourBeacks_21
+  - first:
+      213: -3675957228847958905
+    second: PeckYourBeacks_22
+  - first:
+      213: 8931472907692540327
+    second: PeckYourBeacks_23
+  - first:
+      213: 6222739168202793604
+    second: PeckYourBeacks_24
+  - first:
+      213: 2218885099140859314
+    second: PeckYourBeacks_25
+  - first:
+      213: -8718042400365408860
+    second: PeckYourBeacks_26
+  - first:
+      213: -4804614813180927471
+    second: PeckYourBeacks_27
+  - first:
+      213: 1182798406335218721
+    second: PeckYourBeacks_28
+  - first:
+      213: -4096391632368167643
+    second: PeckYourBeacks_29
+  - first:
+      213: -3933609554073033768
+    second: PeckYourBeacks_30
+  - first:
+      213: -2977738453464752620
+    second: PeckYourBeacks_31
+  - first:
+      213: -3630447790609761128
+    second: PeckYourBeacks_32
+  - first:
+      213: 6779952716769879809
+    second: PeckYourBeacks_33
+  - first:
+      213: -6468745413611357415
+    second: PeckYourBeacks_34
+  - first:
+      213: 8003072882181481468
+    second: PeckYourBeacks_35
+  - first:
+      213: -4927766451678664517
+    second: PeckYourBeacks_36
+  - first:
+      213: 5604409478038244884
+    second: PeckYourBeacks_37
+  - first:
+      213: -3172691402134258101
+    second: PeckYourBeacks_38
+  - first:
+      213: 1323971654921189485
+    second: PeckYourBeacks_39
+  - first:
+      213: -5930530272375610280
+    second: PeckYourBeacks_40
+  - first:
+      213: -5447675569487087695
+    second: PeckYourBeacks_41
+  - first:
+      213: 2287132483200700451
+    second: PeckYourBeacks_42
+  - first:
+      213: -3530536278386278318
+    second: PeckYourBeacks_43
+  - first:
+      213: 7591531041597397641
+    second: PeckYourBeacks_44
+  - first:
+      213: 2758791881395512767
+    second: PeckYourBeacks_45
+  - first:
+      213: -2964707564680776538
+    second: PeckYourBeacks_46
+  - first:
+      213: -1598272637486715961
+    second: PeckYourBeacks_47
+  - first:
+      213: 6895785679757438594
+    second: PeckYourBeacks_48
+  - first:
+      213: 218736208413849430
+    second: PeckYourBeacks_49
+  - first:
+      213: 6091475557000169640
+    second: PeckYourBeacks_50
+  - first:
+      213: -6683893921257859677
+    second: PeckYourBeacks_51
+  - first:
+      213: -8987473387443100783
+    second: PeckYourBeacks_52
+  - first:
+      213: -3453523973558834287
+    second: PeckYourBeacks_53
+  - first:
+      213: 1430772624992659559
+    second: PeckYourBeacks_54
+  - first:
+      213: 1460363246251847765
+    second: PeckYourBeacks_55
+  - first:
+      213: -2983176267583669150
+    second: PeckYourBeacks_56
+  - first:
+      213: 973264454560834150
+    second: PeckYourBeacks_57
+  - first:
+      213: 6404858497584648998
+    second: PeckYourBeacks_58
+  - first:
+      213: -9026020352230680438
+    second: PeckYourBeacks_59
+  - first:
+      213: 2945131885897112464
+    second: PeckYourBeacks_60
+  - first:
+      213: -7130499018965871963
+    second: PeckYourBeacks_61
+  - first:
+      213: -2066583513713874958
+    second: PeckYourBeacks_62
+  - first:
+      213: -4396543061795751740
+    second: PeckYourBeacks_63
+  - first:
+      213: -3297379650546985932
+    second: PeckYourBeacks_64
+  - first:
+      213: 3801023067753813092
+    second: PeckYourBeacks_65
+  - first:
+      213: -3127080706896644153
+    second: PeckYourBeacks_66
+  - first:
+      213: 6619564933991478170
+    second: PeckYourBeacks_67
+  - first:
+      213: 4573108845385116308
+    second: PeckYourBeacks_68
+  - first:
+      213: 5117650540192694954
+    second: PeckYourBeacks_69
+  - first:
+      213: 7425405514630520565
+    second: PeckYourBeacks_70
+  - first:
+      213: 6213565745091745768
+    second: PeckYourBeacks_71
+  - first:
+      213: 2635449851695999856
+    second: PeckYourBeacks_72
+  - first:
+      213: -2981486885227764867
+    second: PeckYourBeacks_73
+  - first:
+      213: -5147210334930503071
+    second: PeckYourBeacks_74
+  - first:
+      213: -6643409254438544606
+    second: PeckYourBeacks_75
+  - first:
+      213: -6516355305018546323
+    second: PeckYourBeacks_76
+  - first:
+      213: 7601874682815655654
+    second: PeckYourBeacks_77
+  - first:
+      213: -4853665650428034169
+    second: PeckYourBeacks_78
+  - first:
+      213: -4256863363583964158
+    second: PeckYourBeacks_79
+  - first:
+      213: -8235301054792267060
+    second: PeckYourBeacks_80
+  - first:
+      213: -4706928800258377001
+    second: PeckYourBeacks_81
+  - first:
+      213: -194799950476155424
+    second: PeckYourBeacks_82
+  - first:
+      213: 8041827770274315442
+    second: PeckYourBeacks_83
+  - first:
+      213: 8609190067374866085
+    second: PeckYourBeacks_84
+  - first:
+      213: 6722374623687394214
+    second: PeckYourBeacks_85
+  - first:
+      213: 2936751534069102539
+    second: PeckYourBeacks_86
+  - first:
+      213: 4002886771391076116
+    second: PeckYourBeacks_87
+  - first:
+      213: -1582617731397472099
+    second: PeckYourBeacks_88
+  - first:
+      213: -7828933662032165167
+    second: PeckYourBeacks_89
+  - first:
+      213: -6282279388941304834
+    second: PeckYourBeacks_90
+  - first:
+      213: 8181535638412469473
+    second: PeckYourBeacks_91
+  - first:
+      213: -3647668984127182944
+    second: PeckYourBeacks_92
+  - first:
+      213: 2810704569999100908
+    second: PeckYourBeacks_93
+  - first:
+      213: 7966621791152072338
+    second: PeckYourBeacks_94
+  - first:
+      213: -2911846619610137779
+    second: PeckYourBeacks_95
+  - first:
+      213: -7827000461999378773
+    second: PeckYourBeacks_96
+  - first:
+      213: 4934685510761522850
+    second: PeckYourBeacks_97
+  - first:
+      213: 7895839473687343172
+    second: PeckYourBeacks_98
+  - first:
+      213: -4906466869054607886
+    second: PeckYourBeacks_99
+  - first:
+      213: -2051370226255371564
+    second: PeckYourBeacks_100
+  - first:
+      213: 3126696377846633769
+    second: PeckYourBeacks_101
+  - first:
+      213: -8131632374663283074
+    second: PeckYourBeacks_102
+  - first:
+      213: -246966803746209458
+    second: PeckYourBeacks_103
+  - first:
+      213: -2444699866148082547
+    second: PeckYourBeacks_104
+  - first:
+      213: -8007688588961220240
+    second: PeckYourBeacks_105
+  - first:
+      213: 8814485549050602811
+    second: PeckYourBeacks_106
+  - first:
+      213: 2240751501274834395
+    second: PeckYourBeacks_107
+  - first:
+      213: 319604643513942022
+    second: PeckYourBeacks_108
+  - first:
+      213: -8302449080201590112
+    second: PeckYourBeacks_109
+  - first:
+      213: -2902140831146112366
+    second: PeckYourBeacks_110
+  - first:
+      213: -3235841702915156837
+    second: PeckYourBeacks_111
+  - first:
+      213: 485842799120548914
+    second: PeckYourBeacks_112
+  - first:
+      213: 6628824319326866200
+    second: PeckYourBeacks_113
+  - first:
+      213: -4037454624910070631
+    second: PeckYourBeacks_114
+  - first:
+      213: 4640081754080547102
+    second: PeckYourBeacks_115
+  - first:
+      213: 6752085244726193653
+    second: PeckYourBeacks_116
+  - first:
+      213: 2738705521840303782
+    second: PeckYourBeacks_117
+  - first:
+      213: -6479467048685606190
+    second: PeckYourBeacks_118
+  - first:
+      213: -7662385008797880307
+    second: PeckYourBeacks_119
+  - first:
+      213: -5495658577667919100
+    second: PeckYourBeacks_120
+  - first:
+      213: -4184590557604640593
+    second: PeckYourBeacks_121
+  - first:
+      213: 16977148619402967
+    second: PeckYourBeacks_122
+  - first:
+      213: -4994761040067606799
+    second: PeckYourBeacks_123
+  - first:
+      213: 2571837625183485832
+    second: PeckYourBeacks_124
+  - first:
+      213: -3423073945891862932
+    second: PeckYourBeacks_125
+  - first:
+      213: -1773696034212666098
+    second: PeckYourBeacks_126
+  - first:
+      213: -1712720771587337596
+    second: PeckYourBeacks_127
+  - first:
+      213: 7112703965907401384
+    second: PeckYourBeacks_128
+  - first:
+      213: -3204709307948169844
+    second: PeckYourBeacks_129
+  - first:
+      213: -7102746730549465309
+    second: PeckYourBeacks_130
+  - first:
+      213: 8567949318714891721
+    second: PeckYourBeacks_131
+  - first:
+      213: 3152036623735859653
+    second: PeckYourBeacks_132
+  - first:
+      213: 3605174747099763931
+    second: PeckYourBeacks_133
+  - first:
+      213: 2105211054388233228
+    second: PeckYourBeacks_134
+  - first:
+      213: 8465099230541285788
+    second: PeckYourBeacks_135
+  - first:
+      213: -8848038463522495626
+    second: PeckYourBeacks_136
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PeckYourBeacks_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 687
+        width: 47
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42028a8e1387fa14e8151cbf659d487b
+      internalID: 8887056168309029596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 687
+        width: 47
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd3959b7144ecd479491bce7e8ccb90
+      internalID: 5069122674555986461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 687
+        width: 47
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439cae8c5e954064ea61865f37631a0f
+      internalID: 3110852824706191001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 687
+        width: 47
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd676a3f51b191941adb5951b793f04b
+      internalID: 2325957497793237967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 688
+        width: 47
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5226483, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359e19c18a55c3a44be7b3b2d47ead49
+      internalID: -6437298482765784205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 688
+        width: 47
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f61116dded445b44a832d0a4c5d1a02
+      internalID: -5701971481468380488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_6
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 688
+        width: 47
+        height: 80
+      alignment: 9
+      pivot: {x: 0.48112714, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f4791f239eaa04a9f42317b47924e9
+      internalID: 7552000948274619738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_7
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 687
+        width: 58
+        height: 68
+      alignment: 9
+      pivot: {x: 0.62628174, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b18badfb611604ebf28bb8bdc937e9
+      internalID: 4399520383113658664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_8
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 687
+        width: 56
+        height: 83
+      alignment: 9
+      pivot: {x: 0.6133532, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f085d7f1a3a854ca6850f248446885
+      internalID: 5214704439307545732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_9
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 687
+        width: 44
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fa935a4d2d6d04a8a2069c596e8b68
+      internalID: -8496148733643188446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_10
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 687
+        width: 45
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ae4b89db832e042b87fb89e67c703d
+      internalID: 7921239611771029791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_11
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 687
+        width: 58
+        height: 68
+      alignment: 9
+      pivot: {x: 0.62628174, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a70b03be6a14a49ac5e0cd4732da44
+      internalID: 2600054778845330004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_12
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 687
+        width: 56
+        height: 83
+      alignment: 9
+      pivot: {x: 0.6104464, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e79c222fc6ca3459f2a33b7c57cef9
+      internalID: -927977845378447771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_13
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 687
+        width: 44
+        height: 97
+      alignment: 9
+      pivot: {x: 0.4889041, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751d20fb838210640abcde74c22d735d
+      internalID: -3188128646137950843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_14
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 687
+        width: 45
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cbfc5b7112f934b992619a7002e239
+      internalID: -405756443051073240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_15
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 683
+        width: 47
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5376795, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d65dc4a5a7b9e44fb3966a0caa83cf8
+      internalID: -6484925326946899045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_16
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 683
+        width: 47
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5597443, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a10ba6c7cfcc3247bb931d10011c331
+      internalID: 6083460799689327173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_17
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 683
+        width: 47
+        height: 94
+      alignment: 9
+      pivot: {x: 0.58083135, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083d8648b24f29347b39222943187d0a
+      internalID: 997807505929277468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_18
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 683
+        width: 47
+        height: 96
+      alignment: 9
+      pivot: {x: 0.58083135, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ce84135a7219d4f9a361f3d4ca6e87
+      internalID: 5784256113832600757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_19
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 683
+        width: 47
+        height: 99
+      alignment: 9
+      pivot: {x: 0.58083135, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100546e05b5b71043b00bb3fa9f85faf
+      internalID: 1293199682227552320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_20
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 683
+        width: 47
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5808287, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2f4605c34b1234ab6af67ff8777195
+      internalID: -2200623744075836708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_21
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 683
+        width: 47
+        height: 101
+      alignment: 9
+      pivot: {x: 0.58083135, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea9ccefb69196f4d9d3711775413c09
+      internalID: 7476464423151327323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_22
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 683
+        width: 47
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5822754, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83197e425a14a0449a35ea27450efaa7
+      internalID: -3675957228847958905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_23
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 683
+        width: 49
+        height: 94
+      alignment: 9
+      pivot: {x: 0.54318297, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2b217a6057bc648ac7f73969d21651
+      internalID: 8931472907692540327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_24
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 683
+        width: 49
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53ac4b959f41b74993eb79e62b782ad
+      internalID: 6222739168202793604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_25
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 683
+        width: 51
+        height: 89
+      alignment: 9
+      pivot: {x: 0.47766113, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fde264bdf8e1b4380e8c0eb1f81922
+      internalID: 2218885099140859314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_27
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 683
+        width: 52
+        height: 89
+      alignment: 9
+      pivot: {x: 0.4886451, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b31e78153dc8694fbdbc55adfeb8b2d
+      internalID: -4804614813180927471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_29
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 683
+        width: 53
+        height: 89
+      alignment: 9
+      pivot: {x: 0.4982196, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca759c7d9bf1774e97eb012ade04cf7
+      internalID: -4096391632368167643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_31
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 683
+        width: 53
+        height: 89
+      alignment: 9
+      pivot: {x: 0.4982196, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3303f51d98f30e84498c757f10dfb0cd
+      internalID: -2977738453464752620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_32
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 683
+        width: 57
+        height: 89
+      alignment: 9
+      pivot: {x: 0.53141063, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb068cdf138ae1e499f816c4a81202c4
+      internalID: -3630447790609761128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_33
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 683
+        width: 49
+        height: 89
+      alignment: 9
+      pivot: {x: 0.4534987, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4ca74c64051764f8e8434cc3e9d9e5
+      internalID: 6779952716769879809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_34
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 687
+        width: 57
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6570515, y: 0.09010206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18c159615065db42beb1eecade79477
+      internalID: -6468745413611357415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_35
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 688
+        width: 57
+        height: 55
+      alignment: 9
+      pivot: {x: 0.6541962, y: 0.07694203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8080a1f0176b649acf44806e52f162
+      internalID: 8003072882181481468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_52
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 539
+        width: 78
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5271278, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707b109f70214434d9b75c873a6bf4d9
+      internalID: -8987473387443100783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_53
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 539
+        width: 75
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5347233, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217bf1ba214e50f4fabf8a3a429c693e
+      internalID: -3453523973558834287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_54
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 539
+        width: 75
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5390641, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4619060ce2b3ca147b9e2d6820dc8906
+      internalID: 1430772624992659559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_55
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 539
+        width: 75
+        height: 125
+      alignment: 9
+      pivot: {x: 0.53689456, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a24e742437650489862fa31e461d07
+      internalID: 1460363246251847765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_60
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 539
+        width: 84
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5290658, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7d2cff7dc9f1b488891465c8923c52
+      internalID: 2945131885897112464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_61
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 539
+        width: 81
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5200949, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f655ed9881c187b4b98f8069f78c7414
+      internalID: -7130499018965871963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_62
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 549
+        width: 65
+        height: 82
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0409fc0bdc4dc454fab8aeac0a40f637
+      internalID: -2066583513713874958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_69
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 550
+        width: 58
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fbfe2de087cb6429ece8a41d858629
+      internalID: 5117650540192694954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_70
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 550
+        width: 58
+        height: 77
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bf5d5d58346f640b7879e01f4a3fdb
+      internalID: 7425405514630520565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 550
+        width: 58
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a21ebfe2899234daac997253f01c1c
+      internalID: 6213565745091745768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_72
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 552
+        width: 58
+        height: 77
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e276514e9e8e014da715a33832ab918
+      internalID: 2635449851695999856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_73
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 552
+        width: 58
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767f5fafcbcee474294846078b438e76
+      internalID: -2981486885227764867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_74
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 549
+        width: 63
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4b1b92b7f39fe4ab381caea79d06d3
+      internalID: -5147210334930503071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_75
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 549
+        width: 63
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ff82974e709ab448a5ef44fe18a434
+      internalID: -6643409254438544606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_76
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 568
+        width: 53
+        height: 55
+      alignment: 9
+      pivot: {x: 0.63572264, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88339cbd28ebe364ebcd48de68413a03
+      internalID: -6516355305018546323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_77
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 568
+        width: 53
+        height: 54
+      alignment: 9
+      pivot: {x: 0.6337269, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8385a17d9b31057489bb4a1034b31f38
+      internalID: 7601874682815655654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_78
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 568
+        width: 57
+        height: 54
+      alignment: 9
+      pivot: {x: 0.58908135, y: 0.019588895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8831532d228d035408b05ae9fa94b018
+      internalID: -4853665650428034169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_79
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 568
+        width: 62
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5426557, y: 0.038650513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5e858e644f7a149936e7e9233a1842
+      internalID: -4256863363583964158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_80
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 568
+        width: 62
+        height: 52
+      alignment: 9
+      pivot: {x: 0.54436076, y: 0.056959886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8701b00efd69834ab33c0e339c27d93
+      internalID: -8235301054792267060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_81
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 568
+        width: 64
+        height: 53
+      alignment: 9
+      pivot: {x: 0.52313995, y: 0.057880905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecacd34f2f86914db47a8899ce53065
+      internalID: -4706928800258377001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_82
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 568
+        width: 53
+        height: 55
+      alignment: 9
+      pivot: {x: 0.63516986, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310a0be2075a8d642a04939bb241d92c
+      internalID: -194799950476155424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_83
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 568
+        width: 53
+        height: 54
+      alignment: 9
+      pivot: {x: 0.635171, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a6c54e15d52cb4f8b49e6a7e33d242
+      internalID: 8041827770274315442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_84
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 568
+        width: 57
+        height: 54
+      alignment: 9
+      pivot: {x: 0.58820117, y: 0.017930772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760c09e6b098b9f4bb808c0cfcd514de
+      internalID: 8609190067374866085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_85
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 568
+        width: 62
+        height: 52
+      alignment: 9
+      pivot: {x: 0.542571, y: 0.038672812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de3293ce266857479767272902fb4b2
+      internalID: 6722374623687394214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_86
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 568
+        width: 62
+        height: 52
+      alignment: 9
+      pivot: {x: 0.54054505, y: 0.05559129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d88a58c6a6d024c8feaa90f2fd2907
+      internalID: 2936751534069102539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_87
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 568
+        width: 64
+        height: 53
+      alignment: 9
+      pivot: {x: 0.52553177, y: 0.054542396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42980a1b3f7e54449af88e1bfe1b116c
+      internalID: 4002886771391076116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_88
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 456
+        width: 58
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1db2f553848f7469dfb3656a6bb7de
+      internalID: -1582617731397472099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_89
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 444
+        width: 58
+        height: 80
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78ecbc4024def744ae7f7deb55e1cbd
+      internalID: -7828933662032165167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_90
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 439
+        width: 60
+        height: 78
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7a87983a4462541bbc0d3521be1327
+      internalID: -6282279388941304834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 431
+        width: 62
+        height: 76
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd184178636f6c41928972f5392f96a
+      internalID: 8181535638412469473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_96
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 462
+        width: 64
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cbbdb28b53d2345b78813629d625ec
+      internalID: -7827000461999378773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_100
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 441
+        width: 74
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c66ce8122ad96b40b031ea1d85d40c3
+      internalID: -2051370226255371564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_101
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 442
+        width: 74
+        height: 94
+      alignment: 9
+      pivot: {x: 0.48896253, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c845f8e910c8c5e41849e5cbdc0e4639
+      internalID: 3126696377846633769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_102
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 442
+        width: 74
+        height: 93
+      alignment: 9
+      pivot: {x: 0.4716698, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55301fa4376c5f4458edbaf20ac4864c
+      internalID: -8131632374663283074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_105
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 430
+        width: 64
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6207954ba5cc448a068bfca3e60b0d
+      internalID: -8007688588961220240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_107
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 428
+        width: 64
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e43c6d93a0e81a4b990ccabcd26a079
+      internalID: 2240751501274834395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_109
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 428
+        width: 64
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e79fb09504a1fd489987f24e0aab647
+      internalID: -8302449080201590112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_111
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 428
+        width: 64
+        height: 74
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4311c9e340ed74991feef07da176ca
+      internalID: -3235841702915156837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_115
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 441
+        width: 53
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bf0bfa8495e0c42b34c9969a70d51e
+      internalID: 4640081754080547102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PeckYourBeacks_127
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 15
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dcabb0a13bf3646b099b3c0f4432fc
+      internalID: -1712720771587337596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
