@@ -96,6 +96,7 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaAO: 1
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
+    m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
   m_UseShadowmask: 1
 --- !u!196 &4
@@ -172,6 +173,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -268,6 +270,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -345,25 +348,6 @@ MonoBehaviour:
   animator: {fileID: 429676558}
   currentState: 0
   mainAnimation: 
---- !u!320 &429676562
-PlayableDirector:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 429676557}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_PlayableAsset: {fileID: 11400000, guid: c12146c28e69b294697dff535aba8d49, type: 2}
-  m_InitialState: 1
-  m_WrapMode: 2
-  m_DirectorUpdateMode: 1
-  m_InitialTime: 0
-  m_SceneBindings:
-  - key: {fileID: -7892841846551146699, guid: c12146c28e69b294697dff535aba8d49, type: 2}
-    value: {fileID: 429676558}
-  m_ExposedReferences:
-    m_References: []
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -677,7 +661,6 @@ MonoBehaviour:
   secPerBeat: 0
   songPosition: 0
   songPositionInBeats: 0
-  dspSongTime: 0
   firstBeatOffset: 0.103
   beatsPerLoop: 1
   completedLoops: 0
@@ -739,9 +722,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   notes: []
-  earlyHitOffset: 0
-  goodHitOffset: 0
-  lateHitOffset: 0
   currentMiniGame: {fileID: 1712710384}
 --- !u!1 &1183179230 stripped
 GameObject:
@@ -816,6 +796,7 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
