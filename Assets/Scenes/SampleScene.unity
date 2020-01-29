@@ -681,8 +681,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cursorObject: {fileID: 1183179230}
   currentInputState: 3
-  tapTimeTreshold: 0.12
-  speedTreshold: 0.67
+  tapTimeTreshold: 0.09
+  speedTreshold: 0.49
 --- !u!61 &970579134
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -872,9 +872,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c745efc781a98e418043b77fae443fa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  earlyHitOffset: 0.15
-  goodHitOffset: 0.25
-  lateHitOffset: 0.15
+  earlyHitOffset: 0
+  goodHitOffset: 0.4
+  lateHitOffset: 0
   notes:
   - timeToHitAt: 5.458
     typeOfHit: HOLD

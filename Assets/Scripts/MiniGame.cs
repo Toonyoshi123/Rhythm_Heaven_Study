@@ -13,23 +13,23 @@ public class MiniGame : MonoBehaviour
     // Depending on the minigame, the designer (you) might want to have different effects, or no effects at all
     // for the Early and Late hits. That is why this is a parent script to the minigame scripts.
 
-    public virtual void EarlyHit()
+    public virtual void EarlyHit(bool isLetGo)
     {
         Debug.Log("Early hit");
     }
 
-    public virtual void GoodHit()
+    public virtual void GoodHit(bool isLetGo)
     {
         HitDetection.instance.IncrementNextHit();
         Debug.Log("Good hit");
     }
 
-    public virtual void LateHit()
+    public virtual void LateHit(bool isLetGo)
     {
         Debug.Log("Late hit");
     }
 
-    public virtual void BadHit(bool isWrong)
+    public virtual void BadHit(bool isWrong,bool isLetGo)
     {
         if (isWrong)
         {

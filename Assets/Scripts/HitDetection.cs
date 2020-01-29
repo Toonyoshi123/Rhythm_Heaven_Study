@@ -42,7 +42,7 @@ public class HitDetection : MonoBehaviour
         // When the player misses the note entirely.
         if ((Conductor.instance.songPosition > nextPerfectHit + goodHitOffset + lateHitOffset))
         {
-            currentMiniGame.BadHit(true);
+            currentMiniGame.BadHit(true,false);
         }
     }
 
@@ -57,6 +57,10 @@ public class HitDetection : MonoBehaviour
             currentNoteInt++;
             nextPerfectHit = notes[currentNoteInt].timeToHitAt;
         }
+        else
+        {
+            this.enabled = false;
+        }
     }
 
     /// <summary>
@@ -70,39 +74,51 @@ public class HitDetection : MonoBehaviour
         if (Conductor.instance.songPosition >= nextPerfectHit - goodHitOffset - earlyHitOffset && 
             Conductor.instance.songPosition < nextPerfectHit - goodHitOffset)
         {
-            if (typeOfHit == notes[currentNoteInt].typeOfHit)
+            if (typeOfHit == "LETGO")
             {
-                currentMiniGame.EarlyHit();
+                currentMiniGame.EarlyHit(true);
+            }
+            else if (typeOfHit == notes[currentNoteInt].typeOfHit)
+            {
+                currentMiniGame.EarlyHit(false);
             }
             else
             {
-                currentMiniGame.BadHit(true);
+                currentMiniGame.BadHit(true, false);
             }
         }
         // Good.
         else if (Conductor.instance.songPosition >= nextPerfectHit - goodHitOffset && 
             Conductor.instance.songPosition < nextPerfectHit + goodHitOffset)
         {
-            if (typeOfHit == notes[currentNoteInt].typeOfHit)
+            if (typeOfHit == "LETGO")
             {
-                currentMiniGame.GoodHit();
+                currentMiniGame.GoodHit(true);
+            }
+            else if (typeOfHit == notes[currentNoteInt].typeOfHit)
+            {
+                currentMiniGame.GoodHit(false);
             }
             else
             {
-                currentMiniGame.BadHit(true);
+                currentMiniGame.BadHit(true, false);
             }
         }
         // Late.
         else if (Conductor.instance.songPosition >= nextPerfectHit + goodHitOffset &&
             Conductor.instance.songPosition < nextPerfectHit + goodHitOffset + lateHitOffset)
         {
-            if (typeOfHit == notes[currentNoteInt].typeOfHit)
+            if (typeOfHit == "LETGO")
             {
-                currentMiniGame.LateHit();
+                currentMiniGame.LateHit(true);
+            }
+            else if (typeOfHit == notes[currentNoteInt].typeOfHit)
+            {
+                currentMiniGame.LateHit(false);
             }
             else
             {
-                currentMiniGame.BadHit(true);
+                currentMiniGame.BadHit(true, false);
             }
         }
         // Bad or Miss.
@@ -110,12 +126,26 @@ public class HitDetection : MonoBehaviour
         {
             if (currentNoteInt > 0 && notes[currentNoteInt].continuous && notes[currentNoteInt - 1].continuous && notes[currentNoteInt - 1].typeOfHit == "HOLD")
             {
-                currentMiniGame.BadHit(true);
+                if (typeOfHit == "LETGO")
+                {
+                    currentMiniGame.BadHit(true,true);
+                }
+                else
+                {
+                    currentMiniGame.BadHit(true,false);
+                }
             }
             else
             {
                 // Miss.
-                currentMiniGame.BadHit(false);
+                if (typeOfHit == "LETGO")
+                {
+                    currentMiniGame.BadHit(false, true);
+                }
+                else
+                {
+                    currentMiniGame.BadHit(false, false);
+                }
             }
         }
     }

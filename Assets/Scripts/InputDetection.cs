@@ -64,8 +64,7 @@ public class InputDetection : MonoBehaviour, IPointerDownHandler, IPointerUpHand
             }
         }
         // Check whether or not the player is holding down the pointer.
-        if ((elapsedTimePress > 0 && elapsedTimePress > tapTimeTreshold) && 
-            currentSpeed < speedTreshold)
+        if ((elapsedTimePress > 0 && elapsedTimePress > tapTimeTreshold))
         {
             // Hold.
             Debug.Log("Hold.");
@@ -81,6 +80,7 @@ public class InputDetection : MonoBehaviour, IPointerDownHandler, IPointerUpHand
     // Only called once, sets up variables for calculations.
     public void OnPointerDown(PointerEventData eventData)
     {
+        StopCoroutine("InputStateChengeBack");
         currentSpeed = 0f;
         isPointerDown = true;
         cursorObject.SetActive(true);
@@ -96,14 +96,14 @@ public class InputDetection : MonoBehaviour, IPointerDownHandler, IPointerUpHand
 
         // Calculate type of input.
         if (elapsedTimePress > 0 && 
-            elapsedTimePress < tapTimeTreshold)
+            elapsedTimePress < tapTimeTreshold &&
+            currentSpeed < speedTreshold)
         {
             // Tap.
             Debug.Log("Tap.");
             InputStateChange(InputState.TAP);
         }
-        else if ((elapsedTimePress > 0 && 
-            elapsedTimePress > tapTimeTreshold) && 
+        else if (elapsedTimePress > 0 &&  
             currentSpeed > speedTreshold)
         {
             // Flick.

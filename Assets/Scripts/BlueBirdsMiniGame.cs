@@ -19,15 +19,18 @@ public class BlueBirdsMiniGame : MiniGame
         captain.GetComponent<SynchedAnimation>().mainAnimation = "Captain";
     }
 
-    public override void EarlyHit()
+    public override void EarlyHit(bool isLetGo)
     {
-        base.EarlyHit();
-        BadHit(true);
+        if (!isLetGo)
+        {
+            base.EarlyHit(isLetGo);
+            BadHit(true, isLetGo);
+        }
     }
 
-    public override void GoodHit()
+    public override void GoodHit(bool isLetGo)
     {
-        base.GoodHit();
+        base.GoodHit(isLetGo);
         captainAnimator.Play("Captain Praise");
         switch (InputDetection.instance.currentInputState)
         {
@@ -46,30 +49,36 @@ public class BlueBirdsMiniGame : MiniGame
         }
     }
 
-    public override void LateHit()
+    public override void LateHit(bool isLetGo)
     {
-        base.LateHit();
-        BadHit(true);
+        if (!isLetGo)
+        {
+            base.LateHit(isLetGo);
+            BadHit(true, isLetGo);
+        }
     }
 
-    public override void BadHit(bool isWrong)
+    public override void BadHit(bool isWrong, bool isLetGo)
     {
-        base.BadHit(isWrong);
-        captainAnimator.Play("Captain Anger");
-        switch (InputDetection.instance.currentInputState)
+        if (!isLetGo)
         {
-            case InputState.HOLD:
-                // Squat.
-                birdAnimator.Play("Squat Miss");
-                break;
-            case InputState.FLICK:
-                // Stretch.
-                birdAnimator.Play("Stretch Miss");
-                break;
-            case InputState.TAP:
-                // Peck.
-                birdAnimator.Play("Peck Miss");
-                break;
+            base.BadHit(isWrong, isLetGo);
+            captainAnimator.Play("Captain Anger");
+            switch (InputDetection.instance.currentInputState)
+            {
+                case InputState.HOLD:
+                    // Squat.
+                    birdAnimator.Play("Squat Miss");
+                    break;
+                case InputState.FLICK:
+                    // Stretch.
+                    birdAnimator.Play("Stretch Miss");
+                    break;
+                case InputState.TAP:
+                    // Peck.
+                    birdAnimator.Play("Peck Miss");
+                    break;
+            }
         }
     }
 }
