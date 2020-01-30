@@ -34,7 +34,7 @@ public class HitDetection : MonoBehaviour
         earlyHitOffset = currentMiniGame.earlyHitOffset;
         goodHitOffset = currentMiniGame.goodHitOffset;
         lateHitOffset = currentMiniGame.lateHitOffset;
-        nextPerfectHit = notes[currentNoteInt].timeToHitAt;
+        nextPerfectHit = notes[currentNoteInt].beatToHitAt * Conductor.instance.secPerBeat;
     }
 
     private void Update()
@@ -55,7 +55,7 @@ public class HitDetection : MonoBehaviour
         {
             Debug.Log("Incrementing.");
             currentNoteInt++;
-            nextPerfectHit = notes[currentNoteInt].timeToHitAt;
+            nextPerfectHit = notes[currentNoteInt].beatToHitAt * Conductor.instance.secPerBeat;
         }
         else
         {

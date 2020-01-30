@@ -238,7 +238,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animator: {fileID: 270506929}
   currentState: 0
-  mainAnimation: 
+  beatAmplifier: 2
+  mainAnimation: Captain
 --- !u!1 &401706395
 GameObject:
   m_ObjectHideFlags: 0
@@ -347,7 +348,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animator: {fileID: 429676558}
   currentState: 0
-  mainAnimation: 
+  beatAmplifier: 2
+  mainAnimation: Idle
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -657,12 +659,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 19c24cadf935e9146ab7775e9f014a21, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  songBPM: 130
+  songBPM: 260
   secPerBeat: 0
   songPosition: 0
   songPositionInBeats: 0
   firstBeatOffset: 0.103
-  beatsPerLoop: 1
+  beatsPerLoop: 2
   completedLoops: 0
   loopPositionInBeats: 0
   loopPositionInAnalog: 0
@@ -681,8 +683,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cursorObject: {fileID: 1183179230}
   currentInputState: 3
-  tapTimeTreshold: 0.09
-  speedTreshold: 0.49
+  tapTimeTreshold: 0.15
+  speedTreshold: 0.4
 --- !u!61 &970579134
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -873,154 +875,154 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   earlyHitOffset: 0
-  goodHitOffset: 0.4
+  goodHitOffset: 0.38
   lateHitOffset: 0
   notes:
-  - timeToHitAt: 5.458
+  - beatToHitAt: 23
     typeOfHit: HOLD
     continuous: 1
-  - timeToHitAt: 5.928
+  - beatToHitAt: 25
     typeOfHit: FLICK
     continuous: 1
-  - timeToHitAt: 10.52
+  - beatToHitAt: 45
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 10.752
+  - beatToHitAt: 46
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 10.983
+  - beatToHitAt: 47
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 14.211
+  - beatToHitAt: 61
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 14.437
+  - beatToHitAt: 62
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 14.674
+  - beatToHitAt: 63
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 17.906
+  - beatToHitAt: 77
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 18.138
+  - beatToHitAt: 78
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 18.467
+  - beatToHitAt: 79
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 21.596
+  - beatToHitAt: 93
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 21.833
+  - beatToHitAt: 94
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 22.057
+  - beatToHitAt: 95
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 25.289
+  - beatToHitAt: 109
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 25.523
+  - beatToHitAt: 110
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 25.752
+  - beatToHitAt: 111
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 27.141
+  - beatToHitAt: 117
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 27.372
+  - beatToHitAt: 118
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 27.606
+  - beatToHitAt: 119
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 29.45
+  - beatToHitAt: 127
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 29.679
+  - beatToHitAt: 128
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 29.926
+  - beatToHitAt: 129
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 32.68
+  - beatToHitAt: 141
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 32.909
+  - beatToHitAt: 142
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 33.146
+  - beatToHitAt: 143
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 34.524
+  - beatToHitAt: 149
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 34.755
+  - beatToHitAt: 150
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 34.992
+  - beatToHitAt: 151
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 36.836
+  - beatToHitAt: 159
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 37.062
+  - beatToHitAt: 160
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 37.312
+  - beatToHitAt: 161
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 40.994
+  - beatToHitAt: 177
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 41.17
+  - beatToHitAt: 178
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 41.284
+  - beatToHitAt: 179
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 44.219
+  - beatToHitAt: 191
     typeOfHit: HOLD
     continuous: 1
-  - timeToHitAt: 44.698
+  - beatToHitAt: 193
     typeOfHit: FLICK
     continuous: 1
-  - timeToHitAt: 45.61
+  - beatToHitAt: 197
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 45.831
+  - beatToHitAt: 198
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 46.071
+  - beatToHitAt: 199
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 48.391
+  - beatToHitAt: 209
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 48.598
+  - beatToHitAt: 210
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 48.744
+  - beatToHitAt: 211
     typeOfHit: TAP
     continuous: 0
-  - timeToHitAt: 51.607
+  - beatToHitAt: 223
     typeOfHit: HOLD
     continuous: 1
-  - timeToHitAt: 52.083
+  - beatToHitAt: 225
     typeOfHit: FLICK
     continuous: 1
-  - timeToHitAt: 53.453
+  - beatToHitAt: 231
     typeOfHit: HOLD
     continuous: 1
-  - timeToHitAt: 53.922
+  - beatToHitAt: 233
     typeOfHit: FLICK
     continuous: 1
-  - timeToHitAt: 55.297
+  - beatToHitAt: 239
     typeOfHit: HOLD
     continuous: 1
-  - timeToHitAt: 55.76
+  - beatToHitAt: 241
     typeOfHit: FLICK
     continuous: 1
   captain: {fileID: 270506928}

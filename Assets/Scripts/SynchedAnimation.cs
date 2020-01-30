@@ -7,6 +7,7 @@ public class SynchedAnimation : MonoBehaviour
     public Animator animator;
     public AnimatorStateInfo animatorStateInfo;
     public int currentState;
+    public float beatAmplifier;
 
     // This should be your idle bopping animation.
     public string mainAnimation = "";
@@ -29,7 +30,7 @@ public class SynchedAnimation : MonoBehaviour
         }
         else
         {
-            animator.speed = 1f / Conductor.instance.secPerBeat;
+            animator.speed = (1f / Conductor.instance.secPerBeat) / beatAmplifier;
         }
     }
 }

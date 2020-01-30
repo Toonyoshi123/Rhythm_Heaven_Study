@@ -6,7 +6,7 @@ using UnityEngine;
 public class Note
 {
     // This can be changed to beats, but that requires a whole lot of calculations on the developer's end.
-    public float timeToHitAt = 0f;
+    public int beatToHitAt = 0;
 
     // In all caps: either FLICK TAP HOLD or LETGO.
     public string typeOfHit = "";
